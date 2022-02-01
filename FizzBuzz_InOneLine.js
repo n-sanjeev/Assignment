@@ -11,6 +11,6 @@ for (let i = 1; i<=100; i++) {
             str += "Buzz ";
         default:
             str += i + " ";
-            console.log(str);
-      }
+       }
     }
+    console.log(str);
